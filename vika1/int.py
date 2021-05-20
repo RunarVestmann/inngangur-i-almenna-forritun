@@ -1,0 +1,8 @@
+number = int(input("Enter a number: "))
+print(number + 5)
+print(number - 5)
+print(number * 5)
+print(number / 5)
+print(number // 5)
+print(number % 5)
+print(number ** 2)
