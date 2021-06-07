@@ -1,3 +1,5 @@
+# Inngangur í almenna forritun
+
 This repository contains code for a Python programming course that's meant to be an introduction to general programming.
 
 **Course description**:<br>
